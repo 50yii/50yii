@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**50yii/50yii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+class Abdoo:
+
+  name = "Abdellah Abahmane"
+  role = "Full-Stack Web Developer"
+  location = "Morocco"
+  interests = "Turning creative ideas into real-world software"
+  goal = "Build high-quality software that scales"
+```
+---
+
+## Tech Stack 
+
+### Frontend 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+
+### Backend 
+[![My Skills](https://skillicons.dev/icons?i=php,python,nodejs)](https://skillicons.dev)
+
+### Databases 
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+### Tools 
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github)](https://skillicons.dev)
