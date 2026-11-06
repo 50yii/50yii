@@ -1,4 +1,3 @@
-
 ## About Me
 
 
@@ -13,16 +12,11 @@ class Abdoo:
 ```
 ---
 
-## Tech Stack 
 
-### Frontend 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+<div align="center">
 
-### Backend 
-[![My Skills](https://skillicons.dev/icons?i=php,python,nodejs)](https://skillicons.dev)
+## Tech Stack
 
-### Databases 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,mysql,sqlite,vscode,docker,git,github)](https://skillicons.dev)
 
-### Tools 
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github)](https://skillicons.dev)
+</div>
