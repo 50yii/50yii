@@ -13,10 +13,8 @@ class Abdoo:
 ---
 
 
-<div align="center">
+
 
 ## Tech Stack
-
 [![Skills](https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,mysql,sqlite,vscode,docker,git,github)](https://skillicons.dev)
 
-</div>
